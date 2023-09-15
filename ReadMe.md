@@ -1,4 +1,4 @@
-<img src="../Matteo Norrito.png"/>
+<img src="./Matteo Norrito.png"/>
 
 ## Socials
 
