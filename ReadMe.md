@@ -1,6 +1,6 @@
 <img src="./Matteo Norrito.png"/>
 
-## Socials
+## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/matteo-norrito)
 
